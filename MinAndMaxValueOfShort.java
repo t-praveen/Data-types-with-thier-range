@@ -1,4 +1,4 @@
-////Min and Max value of Float data type//
+////Min and Max value of Short data type//
 
 package Variables;
 
